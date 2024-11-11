@@ -762,7 +762,7 @@ textarea {
 .entry-summary {
 	margin: 1.5em 0 0;
 }
-.entry-meta {
+.entry-meta, footer.entry-footer {
 	display:none;
 }
 
