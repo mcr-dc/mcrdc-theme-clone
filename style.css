@@ -127,6 +127,13 @@ pre {
  */
 a {
 	background-color: transparent;
+	color:black;
+}
+a:visited {
+	color:black
+}
+a:active {
+	color:black
 }
 
 /**
